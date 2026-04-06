@@ -12,7 +12,7 @@ A senior economist and applied researcher based in Aix-en-Provence, France.
 
 ## 📫 Connect me:
 - https://fr.linkedin.com/in/edith-sand
-- edithsand.weebly.com
+- https://edithsand.weebly.com
 
 
 
