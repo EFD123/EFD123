@@ -10,7 +10,7 @@ A senior economist and applied researcher based in Aix-en-Provence, France.
 •	Data Analysis: R, Stata, SQL
 •	Data: large-scale administrative and survey data
 
-## 📫 Connect with me:
+## 📫 Connect me:
 - https://fr.linkedin.com/in/edith-sand
 - edithsand.weebly.com
 
